@@ -1,0 +1,10 @@
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\testHibernate.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\testHibernate.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\Iesi.Collections.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\NHibernate.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\Iesi.Collections.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\NHibernate.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\NHibernate.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\obj\Debug\testHibernate.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\obj\Debug\testHibernate.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\test.hbm.xml
