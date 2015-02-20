@@ -1,0 +1,15 @@
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\test.hbm.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\testHibernateVB.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\testHibernateVB.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\testHibernateVB.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\Iesi.Collections.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\NHibernate.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\Iesi.Collections.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\NHibernate.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\bin\NHibernate.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\obj\Debug\testHibernateVB.vbprojResolveAssemblyReference.cache
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\obj\Debug\testHibernateVB.Resources.resources
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\obj\Debug\testHibernateVB.vbproj.GenerateResource.Cache
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\obj\Debug\testHibernateVB.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\obj\Debug\testHibernateVB.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernateVB\testHibernateVB\obj\Debug\testHibernateVB.pdb

@@ -8,3 +8,4 @@ C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate
 C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\obj\Debug\testHibernate.dll
 C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\obj\Debug\testHibernate.pdb
 C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\bin\test.hbm.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\testHibernate\testHibernate\obj\Debug\testHibernate.csprojResolveAssemblyReference.cache
