@@ -1,0 +1,16 @@
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\springTest.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\springTest.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\springTest.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Common.Logging.Core.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Common.Logging.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Spring.Aop.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Spring.Core.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Spring.Data.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Spring.Services.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Spring.Web.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\bin\Spring.Web.Extensions.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\obj\Debug\springTest.Resources.resources
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\obj\Debug\springTest.vbproj.GenerateResource.Cache
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\obj\Debug\springTest.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\obj\Debug\springTest.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\springTest\springTest\obj\Debug\springTest.pdb
