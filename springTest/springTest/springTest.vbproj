@@ -152,6 +152,8 @@
     <Compile Include="Juggler.vb" />
     <Compile Include="Performer.vb" />
     <Compile Include="PoeticJuggler.vb" />
+    <Compile Include="Stage.vb" />
+    <Compile Include="ticket.vb" />
     <Compile Include="WebForm1.aspx.designer.vb">
       <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
