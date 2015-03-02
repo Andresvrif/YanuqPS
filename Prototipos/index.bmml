@@ -1,0 +1,95 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2181" measuredH="1131" mockupW="1933" mockupH="1131">
+  <controls>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="1944" y="89" w="237" h="197" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>La%20parte%20de%20publicidad%20puede%20ser%20manejada%0Apor%20un%20WebControl%2C%20de%20forma%20que%20analice%20la%20informaci%F3n%20recibida.%0APara%20mostrar%20la%20publicidad%20de%20forma%20inteligente.%0A%20%0ALa%20publicidad%20puede%20ser%20estatica%20o%20en%20%0Abase%20a%20condicional%20que%20retorne%20TRUE%20o%20%20FALSE.</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="__group__" x="248" y="0" w="1527" h="1131" measuredW="1527" measuredH="1131" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1527" h="1131" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="54">
+          <controlProperties>
+            <text>Yanuq%20-%20La%20cocina%20en%20el%20Per%FA</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="198" y="73" w="1048" h="1034" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="54">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <customData>witdh%2520%253A%25201049</customData>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="210" y="88" w="110" h="113" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="54">
+          <controlProperties>
+            <customData>139x139</customData>
+            <customID>Logo</customID>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="211" y="242" w="710" h="715" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="54"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="932" y="242" w="301" h="234" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="54">
+          <controlProperties>
+            <customData>with%2520%253A%2520300</customData>
+            <customID>Publicidad</customID>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::MenuBar" x="210" y="207" w="1023" h="29" measuredW="426" measuredH="29" zOrder="5" locked="false" isInGroup="54">
+          <controlProperties>
+            <borderStyle>square</borderStyle>
+            <selectedIndex>-1</selectedIndex>
+            <text>Todas%20las%20recetas%2C%20Gu%EDa%20del%20cocinero%2C%20Club%20yanuq%2C%20Mi%20Cuenta</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::SearchBox" x="1098" y="167" w="136" h="-1" measuredW="121" measuredH="25" zOrder="6" locked="false" isInGroup="54">
+          <controlProperties>
+            <text>Quiero%20Cocinar...</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="1060" y="171" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="54">
+          <controlProperties>
+            <icon>FacebookIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="1076" y="171" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="54">
+          <controlProperties>
+            <icon>TwitterIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="1200" y="88" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="9" locked="false" isInGroup="54">
+          <controlProperties>
+            <customData>Puede%2520ser%2520un%2520icono%2520tambien</customData>
+            <text>Ingles</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::List" x="220" y="280" w="-1" h="-1" measuredW="100" measuredH="174" zOrder="10" locked="false" isInGroup="54">
+          <controlProperties>
+            <text>Cocina%20peruana%0ACocina%20light%0ACocina%20para%20dos%0ACocina%20r%E1pida%0AA%20la%20parrilla%0ACocina%20econ%F3mica%0ACocina%20para%20beb%E9s%0ALoncheras</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="222" y="249" w="98" h="-1" measuredW="105" measuredH="27" zOrder="11" locked="false" isInGroup="54">
+          <controlProperties>
+            <text>Las%20Especiales</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::CoverFlow" x="335" y="249" w="571" h="205" measuredW="493" measuredH="198" zOrder="12" locked="false" isInGroup="54"/>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="932" y="482" w="301" h="234" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="54">
+          <controlProperties>
+            <customData>with%2520%253A%2520300</customData>
+            <customID>Publicidad</customID>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="333" y="178" w="-1" h="-1" measuredW="162" measuredH="21" zOrder="14" locked="false" isInGroup="54">
+          <controlProperties>
+            <text>%3E%20LA%20COCINA%20EN%20EL%20PER%DA</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Canvas" x="578" y="111" w="904" h="52" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <customData>Posible%2520Publicidad</customData>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

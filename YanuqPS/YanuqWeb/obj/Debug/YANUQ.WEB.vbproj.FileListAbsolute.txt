@@ -1,0 +1,8 @@
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\bin\YanuqWeb.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\bin\YanuqWeb.pdb
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\bin\YanuqWeb.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\obj\Debug\YanuqWeb.Resources.resources
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\obj\Debug\YANUQ.WEB.vbproj.GenerateResource.Cache
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\obj\Debug\YanuqWeb.dll
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\obj\Debug\YanuqWeb.xml
+C:\Users\DEBORAH\Documents\Andrés\Proyectos\YanuqPS\YanuqPS\YanuqWeb\obj\Debug\YanuqWeb.pdb
